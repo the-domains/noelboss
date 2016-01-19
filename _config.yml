@@ -1,0 +1,28 @@
+name: noelboss
+favicon: null
+layout_spectrum: 0.3422133850399405
+typography_spectrum: 0.3782475886400789
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5810725623741746
+  lightness: 0.9965930550824851
+  saturation: 0.7054693952668458
+  rhythmicContrast: 0.14103943319059908
+purpose: []
